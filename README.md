@@ -84,4 +84,5 @@ section {
 - Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
-¡Buena suerte y diviértanse creando su CV!
+¡Buena suerte y diviértanse creando su CV! 
+
